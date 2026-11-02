@@ -1,0 +1,1 @@
+"""Shared application settings and measurement helpers."""
